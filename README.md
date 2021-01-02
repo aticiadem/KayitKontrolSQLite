@@ -2,6 +2,7 @@
 
 - Uygulama ile SQLite veritabanına kayıtlar ekleyebilirsiniz. Dilerseniz bu kayıtlar güncelleyebilir veya silebilirsiniz.
 - Uygulamayı yaparken view binding kullandım. Ve pek tabii SQLite.
+- Kullanıcı adı ve şifre: admin
 - Resimler:
 
 ![1](https://user-images.githubusercontent.com/58858983/103440593-f61ea000-4c57-11eb-87de-5828b61b8ee0.jpeg)
